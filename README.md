@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sohelahmad30/Leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/sohelahmad30/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sohelahmad30/Leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/sohelahmad30/Leetcode/tree/master/0217-contains-duplicate) |
 ## Design
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/sohelahmad30/Leetcode/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/sohelahmad30/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
