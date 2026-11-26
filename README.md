@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sohelahmad30/Leetcode/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/sohelahmad30/Leetcode/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sohelahmad30/Leetcode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sohelahmad30/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sohelahmad30/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
