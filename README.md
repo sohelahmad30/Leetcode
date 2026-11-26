@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sohelahmad30/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sohelahmad30/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohelahmad30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sohelahmad30/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sohelahmad30/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohelahmad30/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sohelahmad30/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
